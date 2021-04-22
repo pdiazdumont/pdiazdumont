@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Paul
+
+## Tech stack
+.Net Core | React | Typescript | Node | Azure
 
 ## Certifications
 
